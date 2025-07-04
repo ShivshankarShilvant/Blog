@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/shivucoding",
+    "prod_uri": "mysql://root:@localhost/shivucoding",
+    "fb_url": "https://facebook.com/shivucoding",
+    "tw_url": "https://twitter.com/shivucoding",
+    "gh_url": "https://github.com/shivucoding",
+    "blog_name": "\uD83C\uDF3F Nature Blog",
+    "tag_line": "Exploring Earth's Wild Beauty",
+    "about_text": "Hi there! I'm a passionate traveler, nature enthusiast, and visual storyteller. Whether it's the rhythmic crash of waves, the calm of misty mountains, or the roar of a hidden waterfall, I find beauty in the raw and untamed corners of the world. This blog is my way of freezing those fleeting moments-sunsets, storm clouds, trails, and terrains-and sharing them with fellow dreamers and wanderers. Through each photo and post, I hope to inspire you to pause, breathe, and reconnect with the natural world. \uD83D\uDCF8 This is more than a blog. It's a visual diary of stillness, wonder, and the quiet power of the earth.",
+    "no_of_posts": 2,
+    "login_image": "naturelogo1.img",
+    "admin_user": "Shivshankar",
+    "admin_password": "Shankar",
+    "upload_location": "C:/Users/Shivshankar Shilvant/PycharmProjects/Flask Tut/uploader file"
+  }
+}
